@@ -1,5 +1,5 @@
 # SRIM-Array
-SRIM maps the interaction of high energy ions impacting on materials at a single point. This code allows the creation of an array of SRIM data across several points. A more realistic view of real-world ion microscopes for instance.
+SRIM maps the interaction of high energy ions impacting on materials at a single point. This code will allow the creation of an array of SRIM data across several points. A more realistic view of real-world ion microscopes for instance.
 
 #Outline of Desired Final Code
 1. Read collisons.txt as output from SRIM
@@ -13,5 +13,5 @@ Y,Z etc.
 
 #Possible Future Ideas
 (draft)
-#Current code
+#Current code capabilites
 (draft)
